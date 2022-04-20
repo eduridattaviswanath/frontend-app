@@ -1,7 +1,7 @@
 ---
 page_type: sample
 name: "HTML App"
-description: "This is a simple HTML web app that you can deploy on AWS."
+description: "This is a simple HTML web app that you can deploy on AWS by DATTU."
 languages:
 - javascript
 - html
